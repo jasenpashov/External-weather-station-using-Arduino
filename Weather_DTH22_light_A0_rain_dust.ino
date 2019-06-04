@@ -1,4 +1,3 @@
-//http://arduinoairpollution.altervista.org/progetto/
 #include <DHT.h>
 #include <ESP8266WiFi.h>
 /*
@@ -8,8 +7,6 @@ Pin  Description
 2 : OUTPUT(P2)
 3 : INPUT(5VDC 90mA)
 4 : OUTPUT(P1)
-5 : INPUT(T1)･･･FOR THRESHOLD FOR [
-
 */
 
 IPAddress ip;
